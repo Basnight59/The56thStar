@@ -1,0 +1,6 @@
+{
+  "name": "The 56th Star Initiative",
+  "description": "A Sixth Region constitutional consultation portal and economic research platform for the African Diaspora.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
